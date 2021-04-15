@@ -1,4 +1,4 @@
-# Roweb-Stadiu-de-Practica-.Net 
+# Roweb-Stagiu-de-Practica-.Net 
 In aplicatia atasata am adaugat elementele necesare unei coletii de filme, conform cerintei testului.
 
 Ca si functionalitate in plus, am implementat adaugarea unei metode de "Search" in functie de tipul filmului. 
